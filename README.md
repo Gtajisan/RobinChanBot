@@ -20,7 +20,7 @@ Made in Bangladesh
 ## How to Deploy
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/robinchan.git
+   git clone https://github.com/Gtajisan/robinchan.git
    cd robinchan
    ```
 2. Edit `config.py` and insert your bot token and log channel ID
